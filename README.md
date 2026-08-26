@@ -15,15 +15,12 @@ To promote machine learning strategies in solving chemical problems in the chemi
 
 ## Proposed Method
 The product of the project will be a Mathematica notebook that entails the following sections:
-Theory: Explaining the machine learning and ODE concepts relating to the CRNN framework
-Application 
-Modify the Julia code in Case 2 (temperature dependent) of the Deng et al. paper into a Mathematica code
- 
-Validation 
-Students will input their kinetic constant and compare it with the CRNN-learned result from the ground truth kinetic constant from Nalliah’s paper. 
+1) Theory: Explaining the machine learning and ODE concepts relating to the CRNN framework \
+2) Application: Modify the Julia code in Case 2 (temperature dependent) of the Deng et al. paper into a Mathematica code \
+3) Validation: Students will input their kinetic constant and compare it with the CRNN-learned result from the ground truth kinetic constant from Nalliah’s paper
 
 ## Reference 
-(1) Ji, W.; Deng, S. Autonomous Discovery of Unknown Reaction Pathways from Data by Chemical Reaction Neural Network. Journal of Physical Chemistry A 2021, 125 (4), 1082–1092. https://doi.org/10.1021/acs.jpca.0c09316.
-(2) Remington, J. M.; Ferrell, J. B.; Zorman, M.; Petrucci, A.; Schneebeli, S. T.; Li, J. Machine Learning in a Molecular Modeling Course for Chemistry, Biochemistry, and Biophysics Students. The Biophysicist 2020, 1 (2). https://doi.org/10.35459/tbp.2019.000140.
-(3) Thrall, E. S.; Fernando Martinez Lopez; Egg, T. J.; Seung Eun Lee; Schrier, J.; Zhao, Y. Rediscovering the Particle-In-a-Box: Machine Learning Regression Analysis for Hypothesis Generation in Physical Chemistry Lab. Journal of Chemical Education 2023, 100 (12), 4933–4940. https://doi.org/10.1021/acs.jchemed.3c00765.
-(4) Nalliah, R. E. Reaction of FD&c Blue 1 with Sodium Percarbonate: Multiple Kinetics Methods Using an Inexpensive Light Meter. Journal of Chemical Education 2019, 96 (7), 1453–1457. https://doi.org/10.1021/acs.jchemed.8b00589.
+(1) Ji, W.; Deng, S. Autonomous Discovery of Unknown Reaction Pathways from Data by Chemical Reaction Neural Network. Journal of Physical Chemistry A 2021, 125 (4), 1082–1092. https://doi.org/10.1021/acs.jpca.0c09316. \
+(2) Remington, J. M.; Ferrell, J. B.; Zorman, M.; Petrucci, A.; Schneebeli, S. T.; Li, J. Machine Learning in a Molecular Modeling Course for Chemistry, Biochemistry, and Biophysics Students. The Biophysicist 2020, 1 (2). https://doi.org/10.35459/tbp.2019.000140. \
+(3) Thrall, E. S.; Fernando Martinez Lopez; Egg, T. J.; Seung Eun Lee; Schrier, J.; Zhao, Y. Rediscovering the Particle-In-a-Box: Machine Learning Regression Analysis for Hypothesis Generation in Physical Chemistry Lab. Journal of Chemical Education 2023, 100 (12), 4933–4940. https://doi.org/10.1021/acs.jchemed.3c00765. \
+(4) Nalliah, R. E. Reaction of FD&c Blue 1 with Sodium Percarbonate: Multiple Kinetics Methods Using an Inexpensive Light Meter. Journal of Chemical Education 2019, 96 (7), 1453–1457. https://doi.org/10.1021/acs.jchemed.8b00589. 
